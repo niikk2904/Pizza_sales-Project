@@ -7,6 +7,6 @@ Analyzed key performance indicators (KPIs) to provide actionable insights into s
 Implemented data-driven decision-making tools by summarizing complex data into easy-to-understand visual elements, improving management’s ability to make informed decisions.
 
 Enhanced reporting efficiency and stakeholder engagement by presenting a visually appealing and intuitive dashboard layout.
-![image](https://github.com/user-attachments/assets/9330f1fd-8cb0-47b8-8ced-c594d71c51e9)
+
 
 
